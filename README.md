@@ -1,8 +1,5 @@
 ## Hi there 👋
 
 
-
-- 🔭 I’m currently working on trying to figure out how to analyse spectral flow and single cell PBMC data well!
-- 🌱 I’m currently learning how to code
-
+I'm a clinical PhD student working with single cell and spectral flow cytometry data and am excited to learn how to analyse these with R
 
